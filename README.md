@@ -1,4 +1,3 @@
-# black-jackGame
 # Blackjack Game
 
 Welcome to Blackjack Game!
